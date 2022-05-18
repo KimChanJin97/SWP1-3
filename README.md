@@ -1,2 +1,2 @@
 KimChanJinOOOO20170897
-Kookmin Univ. SW remote commit
+Kookmin Univ. SW remote commitment
