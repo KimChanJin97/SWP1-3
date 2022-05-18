@@ -1,2 +1,2 @@
-KimChanJin 20170897
+20170897 kimchanjin
 Kookmin Univ. SW
