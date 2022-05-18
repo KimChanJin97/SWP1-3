@@ -1,3 +1,2 @@
-HI I AM CHANJIN
-HIHI
-HELLO
+KimChanJin 20170897
+Kookmin Univ. SW
